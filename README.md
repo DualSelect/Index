@@ -38,5 +38,8 @@ https://github.com/DualSelect/Game3
 
 
 〇４作目・カードゲーム（開発期間3か月）
+https://github.com/DualSelect/Game4
+
 4作品目にもなるとプログラミングが効率的になり、コードも共通化して書けるようになってきた。
 現在テストバージョンをGoogle Playで配信している。
+https://play.google.com/store/apps/details?id=com.DualSelect.DualSelect
