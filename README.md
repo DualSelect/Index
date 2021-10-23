@@ -30,7 +30,7 @@ https://github.com/DualSelect/Game2
 
 
 〇３作目・ポケモン風対戦ゲーム（開発期間3か月）
-
+https://github.com/DualSelect/Game3
 
 公開するつもりで開発を始めた。動く段階になって遊んだ時、ポケモンのゲームルールが好みでないことに気づき、開発を終了した。
 
